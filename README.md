@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **chhavigupta2401@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xfWqEGgWKH71HdOGnXqNTz4uvgn5KYeA/view?usp=sharing](https://drive.google.com/file/d/1xfWqEGgWKH71HdOGnXqNTz4uvgn5KYeA/view?usp=sharing)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1uOD4KCkl1k0xuoOZIxNsV1R3hxCRXsqW/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
