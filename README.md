@@ -3,13 +3,13 @@
 <img align="right" alt="Coder " width="400" src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chhavigupta2401&label=Profile%20views&color=0e75b6&style=flat" alt="chhavigupta2401" /> </p>
 
-- 🔭 I’m currently working on **E-Commerce**
+- 🔭 I’m currently working on **3D animations**
 
-- 🌱 I’m currently learning **Redux , Nginx , React Native , Git**
+- 🌱 I’m currently learning **Redux , Threejs , React Native , Gsap**
 
-- 👯 I’m looking to collaborate on **Full Stack Development Project**
+- 👯 I’m looking to collaborate on **Frontend Development Project**
 
-- 🤝 I’m looking for help with **Full Stack Development**
+- 🤝 I’m looking for help with **Frontend Development**
 
 - 💬 Ask me about **React , Node , Express , MongoDB , REST APIs , SQL**
 
